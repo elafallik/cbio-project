@@ -1,2 +1,7 @@
-# cbio-project
-Final project for the "76558 ALGORITHMS IN COMPUTATIONAL BIOLOGY" course at HUJI
+# CBIO Project
+
+$ conda create -n bio38 python=3.8 spyder scipy matplotlib biopython
+
+$ conda install -n bio38 pandas
+
+$ conda install -n bio38 jax
